@@ -13,4 +13,4 @@ rootProject.name = "game-of-life"
 include(":android")
 include(":desktop")
 include(":common")
-
+include(":web")

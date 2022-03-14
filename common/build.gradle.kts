@@ -1,7 +1,7 @@
 import org.jetbrains.compose.compose
 
 plugins {
-    id("org.jetbrains.compose") version "1.0.0-alpha2"
+    id("org.jetbrains.compose") version "1.1.0"
     id("com.android.library")
     id("kotlin-android-extensions")
     kotlin("multiplatform")
@@ -11,16 +11,25 @@ group = "me.ilker"
 version = "1.0"
 
 repositories {
+    mavenCentral()
+    maven("https://maven.pkg.jetbrains.space/public/p/compose/dev")
     google()
 }
 
 kotlin {
     android()
+
     jvm("desktop") {
         compilations.all {
             kotlinOptions.jvmTarget = "11"
         }
     }
+
+    js(IR) {
+        browser()
+        binaries.executable()
+    }
+
     sourceSets {
         val commonMain by getting {
             dependencies {
@@ -54,11 +63,28 @@ kotlin {
             dependencies {
                 api(compose.desktop.common)
                 api(compose.ui)
+                implementation(project(":common"))
                 implementation(compose.desktop.currentOs)
             }
         }
 
         val desktopTest by getting
+
+        val jsMain by getting {
+            dependencies {
+                implementation(compose.web.core)
+                implementation(compose.runtime)
+                implementation(project(":common"))
+            }
+        }
+    }
+}
+
+// a temporary workaround for a bug in jsRun invocation - see https://youtrack.jetbrains.com/issue/KT-48273
+afterEvaluate {
+    rootProject.extensions.configure<org.jetbrains.kotlin.gradle.targets.js.nodejs.NodeJsRootExtension> {
+        versions.webpackDevServer.version = "4.0.0"
+        versions.webpackCli.version = "4.9.0"
     }
 }
 
