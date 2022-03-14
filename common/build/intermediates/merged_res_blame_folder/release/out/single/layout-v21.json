@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/326e267918520d2f6d88e5a84eabf5c8/transformed/core-1.5.0-rc02/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/326e267918520d2f6d88e5a84eabf5c8/transformed/core-1.5.0-rc02/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/326e267918520d2f6d88e5a84eabf5c8/transformed/core-1.5.0-rc02/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/326e267918520d2f6d88e5a84eabf5c8/transformed/core-1.5.0-rc02/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

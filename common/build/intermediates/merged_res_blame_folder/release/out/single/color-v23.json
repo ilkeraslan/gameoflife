@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/color-v23/abc_btn_colored_text_material.xml"
+    }
+]

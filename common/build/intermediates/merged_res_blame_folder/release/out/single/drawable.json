@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_ic_clear_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/btn_radio_on_to_off_mtrl_animation.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/btn_radio_on_to_off_mtrl_animation.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/btn_radio_off_mtrl.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/tooltip_frame_light.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_vector_test.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/50a12676f41f7c9f9d0cc7ffe7e322f6/transformed/appcompat-resources-1.2.0/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/btn_checkbox_checked_mtrl.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/326e267918520d2f6d88e5a84eabf5c8/transformed/core-1.5.0-rc02/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/326e267918520d2f6d88e5a84eabf5c8/transformed/core-1.5.0-rc02/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/tooltip_frame_dark.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_btn_radio_material_anim.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_btn_radio_material_anim.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/326e267918520d2f6d88e5a84eabf5c8/transformed/core-1.5.0-rc02/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/326e267918520d2f6d88e5a84eabf5c8/transformed/core-1.5.0-rc02/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_btn_check_material_anim.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_btn_check_material_anim.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_ratingbar_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/btn_checkbox_unchecked_mtrl.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/btn_radio_off_to_on_mtrl_animation.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/btn_radio_off_to_on_mtrl_animation.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/btn_radio_on_mtrl.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable/abc_tab_indicator_material.xml"
+    }
+]

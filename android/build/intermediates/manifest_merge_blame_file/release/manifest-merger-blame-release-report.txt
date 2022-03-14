@@ -1,0 +1,40 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="me.ilker.android"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:3:5-13:19
+12        android:allowBackup="false"
+12-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:4:13-40
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0-rc02] /home/ilker/.gradle/caches/transforms-3/326e267918520d2f6d88e5a84eabf5c8/transformed/core-1.5.0-rc02/AndroidManifest.xml:24:18-86
+14        android:extractNativeLibs="false"
+15        android:supportsRtl="true"
+15-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:5:13-39
+16        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+16-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:6:13-69
+17        <activity android:name="me.ilker.android.MainActivity" >
+17-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:7:13-12:20
+17-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:7:23-51
+18            <intent-filter>
+18-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:8:13-11:29
+19                <action android:name="android.intent.action.MAIN" />
+19-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:9:17-68
+19-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:9:25-66
+20
+21                <category android:name="android.intent.category.LAUNCHER" />
+21-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:10:17-76
+21-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:10:27-74
+22            </intent-filter>
+23        </activity>
+24    </application>
+25
+26</manifest>

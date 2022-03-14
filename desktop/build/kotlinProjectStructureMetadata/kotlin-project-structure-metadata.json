@@ -1,0 +1,30 @@
+{
+  "projectStructure": {
+    "formatVersion": "0.3.1",
+    "isPublishedAsRoot": "true",
+    "variants": [
+      {
+        "name": "desktopApiElements",
+        "sourceSet": [
+          "commonMain"
+        ]
+      },
+      {
+        "name": "desktopRuntimeElements",
+        "sourceSet": [
+          "commonMain"
+        ]
+      }
+    ],
+    "sourceSets": [
+      {
+        "name": "commonMain",
+        "dependsOn": [],
+        "moduleDependency": [
+          "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
+        ],
+        "binaryLayout": "klib"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/326e267918520d2f6d88e5a84eabf5c8/transformed/core-1.5.0-rc02/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/ilker/IdeaProjects/game-of-life/common/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

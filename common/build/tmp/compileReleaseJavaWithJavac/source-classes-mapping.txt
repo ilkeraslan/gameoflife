@@ -1,0 +1,2 @@
+me/ilker/common/BuildConfig.java
+ me.ilker.common.BuildConfig
