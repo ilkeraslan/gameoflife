@@ -20,6 +20,7 @@ kotlin {
             kotlinOptions.jvmTarget = "11"
         }
     }
+
     sourceSets {
         val desktopMain by getting {
             dependencies {
@@ -34,7 +35,7 @@ kotlin {
 
 compose.desktop {
     application {
-        mainClass= "MainKt"
+        mainClass= "me.ilker.common.MainKt"
         nativeDistributions {
             targetFormats(TargetFormat.Dmg, TargetFormat.Msi, TargetFormat.Deb)
             packageName = "jvm"

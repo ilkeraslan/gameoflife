@@ -4,7 +4,7 @@
             "outputFile": "/home/ilker/IdeaProjects/game-of-life/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "source": "/home/ilker/.gradle/caches/transforms-3/aaea5b46927d20cfec1ff6d95f267b8c/transformed/appcompat-1.4.1/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

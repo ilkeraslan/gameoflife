@@ -7,35 +7,61 @@
 7    <uses-sdk
 8        android:minSdkVersion="24"
 8-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml
-9        android:targetSdkVersion="30" />
+9        android:targetSdkVersion="31" />
 9-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml
 10
 11    <application
-11-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:3:5-13:19
+11-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:3:5-15:19
 12        android:allowBackup="false"
 12-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:4:13-40
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.5.0-rc02] /home/ilker/.gradle/caches/transforms-3/326e267918520d2f6d88e5a84eabf5c8/transformed/core-1.5.0-rc02/AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.7.0] /home/ilker/.gradle/caches/transforms-3/db85fa9f3c1ccf2cae0780c4930527be/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:extractNativeLibs="false"
 16        android:supportsRtl="true"
 16-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:5:13-39
-17        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
-17-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:6:13-69
-18        <activity android:name="me.ilker.android.MainActivity" >
-18-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:7:13-12:20
-18-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:7:23-51
-19            <intent-filter>
-19-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:8:13-11:29
-20                <action android:name="android.intent.action.MAIN" />
-20-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:9:17-68
-20-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:9:25-66
-21
-22                <category android:name="android.intent.category.LAUNCHER" />
-22-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:10:17-76
-22-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:10:27-74
-23            </intent-filter>
-24        </activity>
-25    </application>
-26
-27</manifest>
+17        android:testOnly="true"
+18        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+18-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:6:13-69
+19        <activity
+19-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:7:9-14:20
+20            android:name="me.ilker.android.MainActivity"
+20-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:8:17-45
+21            android:exported="true" >
+21-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:9:17-40
+22            <intent-filter>
+22-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:10:13-13:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:11:17-68
+23-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:11:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:12:17-76
+25-->/home/ilker/IdeaProjects/game-of-life/android/src/main/AndroidManifest.xml:12:27-74
+26            </intent-filter>
+27        </activity>
+28
+29        <provider
+29-->[androidx.emoji2:emoji2:1.0.0] /home/ilker/.gradle/caches/transforms-3/1dbf226eb6cca1dc549ed2b10e3dfb9f/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+30            android:name="androidx.startup.InitializationProvider"
+30-->[androidx.emoji2:emoji2:1.0.0] /home/ilker/.gradle/caches/transforms-3/1dbf226eb6cca1dc549ed2b10e3dfb9f/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+31            android:authorities="me.ilker.android.androidx-startup"
+31-->[androidx.emoji2:emoji2:1.0.0] /home/ilker/.gradle/caches/transforms-3/1dbf226eb6cca1dc549ed2b10e3dfb9f/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+32            android:exported="false" >
+32-->[androidx.emoji2:emoji2:1.0.0] /home/ilker/.gradle/caches/transforms-3/1dbf226eb6cca1dc549ed2b10e3dfb9f/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+33            <meta-data
+33-->[androidx.emoji2:emoji2:1.0.0] /home/ilker/.gradle/caches/transforms-3/1dbf226eb6cca1dc549ed2b10e3dfb9f/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+34                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+34-->[androidx.emoji2:emoji2:1.0.0] /home/ilker/.gradle/caches/transforms-3/1dbf226eb6cca1dc549ed2b10e3dfb9f/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+35                android:value="androidx.startup" />
+35-->[androidx.emoji2:emoji2:1.0.0] /home/ilker/.gradle/caches/transforms-3/1dbf226eb6cca1dc549ed2b10e3dfb9f/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+36            <meta-data
+36-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/ilker/.gradle/caches/transforms-3/446ad46a52538ac9a82ef4a99ed83686/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+37                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+37-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/ilker/.gradle/caches/transforms-3/446ad46a52538ac9a82ef4a99ed83686/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+38                android:value="androidx.startup" />
+38-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/ilker/.gradle/caches/transforms-3/446ad46a52538ac9a82ef4a99ed83686/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+39        </provider>
+40    </application>
+41
+42</manifest>

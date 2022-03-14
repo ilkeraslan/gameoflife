@@ -4,7 +4,7 @@
             "outputFile": "/home/ilker/IdeaProjects/game-of-life/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/ilker/.gradle/caches/transforms-3/45c7d2e987e02ba38a3f6ad86d0ae317/transformed/appcompat-1.2.0/res/values-night-v8/values-night-v8.xml",
+                    "source": "/home/ilker/.gradle/caches/transforms-3/aaea5b46927d20cfec1ff6d95f267b8c/transformed/appcompat-1.4.1/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
