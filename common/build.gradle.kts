@@ -34,9 +34,6 @@ kotlin {
         val commonMain by getting {
             dependencies {
                 implementation("androidx.annotation:annotation:1.3.0")
-                api(compose.runtime)
-                api(compose.foundation)
-                api(compose.material)
             }
         }
 
@@ -63,20 +60,13 @@ kotlin {
             dependencies {
                 api(compose.desktop.common)
                 api(compose.ui)
-                implementation(project(":common"))
                 implementation(compose.desktop.currentOs)
             }
         }
 
         val desktopTest by getting
 
-        val jsMain by getting {
-            dependencies {
-                implementation(compose.web.core)
-                implementation(compose.runtime)
-                implementation(project(":common"))
-            }
-        }
+        val jsMain by getting
     }
 }
 
