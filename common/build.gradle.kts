@@ -56,13 +56,7 @@ kotlin {
             }
         }
 
-        val desktopMain by getting {
-            dependencies {
-                api(compose.desktop.common)
-                api(compose.ui)
-                implementation(compose.desktop.currentOs)
-            }
-        }
+        val desktopMain by getting
 
         val desktopTest by getting
 

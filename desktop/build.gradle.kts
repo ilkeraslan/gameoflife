@@ -26,7 +26,7 @@ kotlin {
             dependencies {
                 api(compose.desktop.common)
                 api(compose.ui)
-                implementation(project(":common"))
+                api(compose.runtime)
                 implementation(compose.desktop.currentOs)
             }
         }
@@ -35,7 +35,7 @@ kotlin {
 
 compose.desktop {
     application {
-        mainClass= "me.ilker.common.MainKt"
+        mainClass = "me.ilker.gameoflife.MainKt"
         nativeDistributions {
             targetFormats(TargetFormat.Dmg, TargetFormat.Msi, TargetFormat.Deb)
             packageName = "jvm"
